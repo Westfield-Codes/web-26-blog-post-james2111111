@@ -2,3 +2,6 @@
 
 
 /* NEW CSS HERE */
+:root {
+    --bs-body-font-size: 1.25rem;
+}
