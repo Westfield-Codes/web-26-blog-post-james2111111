@@ -9,3 +9,9 @@
     border:1px solid grey;
     padding:10px;
 }
+body {
+    background-image: url(bg.jpg);
+}
+article {
+    padding:30px;
+}
