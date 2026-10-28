@@ -1,0 +1,17 @@
+/* LEAVE THESE */
+
+
+/* NEW CSS HERE */
+:root {
+    --bs-body-font-size: 1.25rem;
+}
+#songs,#songs td, #songs th {
+    border:1px solid grey;
+    padding:10px;
+}
+body {
+    background-image: url(bg.jpg);
+}
+article {
+    padding:30px;
+}
